@@ -2,7 +2,7 @@
 
 **Corresponding author:** Erik Johansson, ejohanss@uw.edu
 
-**Repository DOI:** [to be assigned]
+**Repository DOI:**  10.5281/zenodo.20751054
 
 ## Overview
 
